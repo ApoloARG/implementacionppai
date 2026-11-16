@@ -1,0 +1,13 @@
+# Dependencias y builds (se regeneran solos)
+node_modules/
+dist/
+target/
+
+# JDK portable y zips (pesan mucho)
+jdk/
+*.zip
+
+# IDEs
+.idea/
+*.iml
+.vscode/
